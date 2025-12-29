@@ -6,7 +6,7 @@ Experienced in designing and building scalable, maintainable software across the
 ## Here are some facts to get you started with me
 
 - ⚙️ I build full-stack web applications using technologies like React, Next.js, and NestJS.
-- 🔌 I have experience working with IoT and embedded systems using C/C++, Rust, and Go.
+- 🔌 I have experience working with IoT and embedded systems using C/C++.
 - 🧱 I prioritize clean architecture, maintainability, and practical design.
 - ☁️ I’m comfortable deploying apps to cloud platforms like Vercel and Render.
 - 🎨 I care about both code quality and user experience — from backend logic to UI/UX design.
