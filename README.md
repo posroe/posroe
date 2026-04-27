@@ -1,4 +1,4 @@
-## Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="28" height="28">, I'm Parinya Pantimit, You can call me Phone
+## Hi there <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="28" height="28"></picture>, I'm Parinya Pantimit, You can call me Phone
 
 Full-stack developer with a strong focus on web technologies and software systems.  
 Experienced in designing and building scalable, maintainable software across the stack.
